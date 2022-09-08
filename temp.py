@@ -1,2 +1,1 @@
 print("helloooooo")
-print("second")
